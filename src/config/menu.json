@@ -1,0 +1,36 @@
+{
+  "main": [
+    {
+      "name": "Features",
+      "url": "/features"
+    },
+    {
+      "name": "Pricing",
+      "url": "/pricing"
+    }
+  ],
+  "footer_main_links": [
+    {
+      "name": "Features",
+      "url": "/features"
+    },
+    {
+      "name": "Pricing",
+      "url": "/pricing"
+    },
+    {
+      "name": "Contact Us",
+      "url": "/contact"
+    }
+  ],
+  "footer_quick_links": [
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "name": "Terms & Conditions",
+      "url": "/terms-conditions"
+    }
+  ]
+}
