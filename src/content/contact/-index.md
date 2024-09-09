@@ -10,6 +10,6 @@ hero:
     Whether you have questions about our services, need technical or want to explore how Draftify can
     help your business thrive, we're here to assist you.
   contact: "Contact Information"
-  email: "support@cloudpeakfinance.com"
+  email: "support@draftify.io"
   phone: "+420 732 215 370"
 ---

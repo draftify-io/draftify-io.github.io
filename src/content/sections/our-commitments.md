@@ -1,10 +1,10 @@
 ---
 # Business Transformation Section
-title: "We Help Transforms Your Business"
-description: "Our mission is to empower individuals and organizations to unleash their creative potential"
+title: "We Help Transform Your Business"
+description: "We empower individuals and organizations to unleash their creative potential and leave the machine work to the machines."
 cards:
   - title: "Streamlined Workflow"
-    description: "Effortlessly Collaborate Across Teams and Projects with CloudPeak's Seamless and Intuitive Collaboration Tools"
-  - title: "Robust Data Security"
-    description: "Protect Your Sensitive Information with Cutting-Edge Encryption and Security Measures"
+    description: "Effortlessly Collaborate Across Teams and Projects with Draftify's AI Automation"
+  - title: "Automated Research"
+    description: "Let Draftify's AI Agents do the heavy lifting of research and data analysis for you"
 ---

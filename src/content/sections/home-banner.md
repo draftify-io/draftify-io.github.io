@@ -1,7 +1,7 @@
 ---
 # Banner Section
-title: "Elevate Your Business with Draftify"
-description: "Empowering Your Success with Cutting-Edge SaaS Solutions Built for Scalability, Efficiency, and Growth."
+title: "Templating Your Office Tasks, Automated"
+description: "Bring an AI Agent to your table. Have it do & check its own work."
 notification: ""
 buttons:
   - enable: false
