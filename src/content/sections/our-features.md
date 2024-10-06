@@ -32,7 +32,7 @@ services:
       desc: "Happy customers worldwide"
 
   - title: "Expert Guidance Every Step of the Way."
-    description: "Experience a Guided Onboarding Experience with CloudPeak, Where Our Expert Team Provides Personalized Support and Assistance."
+    description: "Experience a Guided Onboarding Experience with Draftify, Where Our Expert Team Provides Personalized Support and Assistance."
     imageSrc: "/images/cards/line_chart.webp"
     imageAlt: "onboarding strategy"
     button:
