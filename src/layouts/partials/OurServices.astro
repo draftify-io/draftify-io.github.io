@@ -26,13 +26,13 @@ interface Service {
   stats: Stats;
 }
 
-interface HowCloudPeakWorksProps {
+interface HowDraftifyWorksProps {
   title: string;
   subtitle: string;
   services: Service[];
 }
 
-const { title, subtitle, services }: HowCloudPeakWorksProps = (await getEntry("sections", "our-services")).data;
+const { title, subtitle, services }: HowDraftifyWorksProps = (await getEntry("sections", "our-services")).data;
 ---
 
 <section class="section">

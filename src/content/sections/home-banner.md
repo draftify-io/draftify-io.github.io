@@ -12,7 +12,7 @@ buttons:
     link: "pricing"
 main_image:
   src: "/images/desktop_dashboard.png"
-  alt: "CloudPeak Dashboard"
+  alt: "Draftify Dashboard"
 background_image:
   src: "/images/shapes/hero_blob.webp"
   alt: ""

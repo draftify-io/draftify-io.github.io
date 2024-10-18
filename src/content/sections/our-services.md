@@ -1,7 +1,7 @@
 ---
-# How CloudPeak Works Section
+# How Draftify Works Section
 title: "How Draftify Works"
-subtitle: "Designed to Simplify Your Experience and Maximize the Benefits of CloudPeak's Innovative Features"
+subtitle: "Designed to Simplify Your Experience and Maximize the Benefits of Draftify's Innovative Features"
 services:
   - title: "Effortless Onboarding Process Fast"
     description: "Discover Our Streamlined and User-Friendly Onboarding Process, Designed to Get You Up and Running Quickly and Efficiently."

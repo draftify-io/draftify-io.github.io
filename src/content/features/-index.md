@@ -13,7 +13,7 @@ hero:
     label: "See How It Works"
   banner_image:
     src: "/images/desktop_features.png"
-    alt: "cloudpeak dashboard"
+    alt: "Draftify dashboard"
   shape_image:
     enable: true
     src: "/images/shapes/vertical_blob.webp"

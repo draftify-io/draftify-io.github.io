@@ -1,7 +1,7 @@
 ---
 # Choose A Plan
 title: "Choose A Plan"
-subtitle: "Created to Simplify Your Experience and Unlock the Advantages of CloudPeak's Innovative Technologies"
+subtitle: "Created to Simplify Your Experience and Unlock the Advantages of Draftify's Innovative Technologies"
 
 
 plans:

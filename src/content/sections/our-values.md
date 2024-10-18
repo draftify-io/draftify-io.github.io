@@ -4,7 +4,7 @@ subtitle: "We believe in constantly evolving and adopting the latest technologie
 commitmentCards:
     - icon: "/images/icons/windspeed.svg"
       title: "Streamlined Workflow"
-      description: "Effortlessly Collaborate Across Teams and Projects with CloudPeak's Seamless and Intuitive Collaboration Tools"
+      description: "Effortlessly Collaborate Across Teams and Projects with Draftify's Seamless and Intuitive Collaboration Tools"
       aosDelay: "0"
     - icon: "/images/icons/windspeed.svg"
       title: "Robust Data Security"
@@ -12,14 +12,14 @@ commitmentCards:
       aosDelay: "100"
     - icon: "/images/icons/windspeed.svg"
       title: "Strive for Excellence"
-      description: "Effortlessly Collaborate Across Teams and Projects with CloudPeak's Seamless and Intuitive Collaboration"
+      description: "Effortlessly Collaborate Across Teams and Projects with Draftify's Seamless and Intuitive Collaboration"
       aosDelay: "200"
 
 # Our Journey Section
 ourJourney:
   enable: true
   title: "Committed to Innovation Excellence and with cutting-edge technology"
-  description: "Welcome to CloudPeak Finance, where cutting-edge technology meets exceptional service. Founded in [Year], we set out to revolutionize the financial industry by providing innovative solutions that empower businesses to thrive in a dynamic market."
+  description: "Welcome to Draftify Finance, where cutting-edge technology meets exceptional service. Founded in [Year], we set out to revolutionize the financial industry by providing innovative solutions that empower businesses to thrive in a dynamic market."
   sectionSubtitle: "Our Journey"
   image:
     src: "/images/blog/post_1.png"
