@@ -5,7 +5,7 @@ subtitle: "Get Started Now and Explore New Possibilities with Our Comprehensive 
 button:
   enable: true
   link: "book-demo"
-  label: "Get Free Version"
+  label: "Enroll in Paid Beta"
 dashboard_image:
   enable: true
   src: "/images/desktop_dashboard.png"
